@@ -35,16 +35,136 @@
 # :rocket: Sobre o Exercício
 
 Nos exercícios a seguir, você trabalhará com uma estrutura de dados representando uma lista de livros, contendo informações como nome do livro, gênero, pessoa autora do livro e data de lançamento.
+Em cada exercício, será pedido que você encontre ou produza alguma informação a respeito dessa lista utilizando as funções que você aprendeu hoje.
 
 # :postbox: Entrega
 
 ### :clipboard: Sumário
 
-- <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_PESSOA_AUTORA;</p>
+- <p><a href="#1"> :pushpin: 1.</a> Dada uma matriz de matrizes, transforme em uma única matriz;</p>
+
+- <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO;</p>
+
+- <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO;</p>
+
+- <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO;</p>
+
+- <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO;</p>
+
+- <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO;</p>
 
 ## :books: Exercícios
 
+Todos os exercícios devem ser realizados utilizando reduce, e se necessário outra HOF, a informação será citada no enunciado.
+
 ### 1°
+
+Dada uma matriz de matrizes, transforme em uma única matriz.
+
+#### Resposta:
+
+<details>
+ <summary> :pencil2: Código Javascript</summary>
+
+```js
+
+```
+
+</details>
+
+<p align="right">
+    <a href="#clipboard-Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
+
+### 2°
+
+#### Resposta:
+
+<details>
+ <summary> :pencil2: Código Javascript</summary>
+
+```js
+
+```
+
+</details>
+
+<p align="right">
+    <a href="#clipboard-Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
+
+### 3°
+
+#### Resposta:
+
+<details>
+ <summary> :pencil2: Código Javascript</summary>
+
+```js
+
+```
+
+</details>
+
+<p align="right">
+    <a href="#clipboard-Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
+
+### 4°
+
+#### Resposta:
+
+<details>
+ <summary> :pencil2: Código Javascript</summary>
+
+```js
+
+```
+
+</details>
+
+<p align="right">
+    <a href="#clipboard-Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
+
+### 5°
+
+#### Resposta:
+
+<details>
+ <summary> :pencil2: Código Javascript</summary>
+
+```js
+
+```
+
+</details>
+
+<p align="right">
+    <a href="#clipboard-Sumário">
+    <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
+  </a>
+</p>
+
+#
+
+### 6°
 
 #### Resposta:
 
