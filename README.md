@@ -3,7 +3,8 @@
 </h1>
 
 <h3 align="center">
-  Exercício 8-2: JS_ES6 - Higher Order Functions--reduce - Concluído o/ o/ o/ :star:
+  <strike>Exercício 8-3: JS_ES6 - Higher Order Functions--reduce - Concluído o/ o/ o/ :star:</strike>
+	Em resolução :runner:
 </h3>
 
 <blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
@@ -43,7 +44,7 @@ Em cada exercício, será pedido que você encontre ou produza alguma informaç�
 
 - <p><a href="#1"> :pushpin: 1.</a> Dada uma matriz de matrizes, transforme em uma única matriz;</p>
 
-- <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO;</p>
+- <p><a href="#1"> :pushpin: 1.</a> Crie uma string com os nomes de todas as pessoas autoras;</p>
 
 - <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO;</p>
 
@@ -67,7 +68,15 @@ Dada uma matriz de matrizes, transforme em uma única matriz.
  <summary> :pencil2: Código Javascript</summary>
 
 ```js
+const assert = require("assert");
 
+const arrays = [["1", "2", "3"], [true], [4, 5, 6]];
+
+function flatten() {
+	return arrays.reduce((acc, curr) => acc.concat(curr), []);
+}
+
+assert.deepEqual(flatten(), ["1", "2", "3", true, 4, 5, 6]);
 ```
 
 </details>
@@ -81,6 +90,8 @@ Dada uma matriz de matrizes, transforme em uma única matriz.
 #
 
 ### 2°
+
+Crie uma string com os nomes de todas as pessoas autoras.
 
 #### Resposta:
 
